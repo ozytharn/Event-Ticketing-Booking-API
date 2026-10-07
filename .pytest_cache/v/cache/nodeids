@@ -1,0 +1,9 @@
+[
+  "tests/test_api.py::test_auth_rbac_booking_cancellation_and_refund_lifecycle",
+  "tests/test_api.py::test_booking_read_and_quantity_update",
+  "tests/test_api.py::test_event_discovery_ownership_and_structured_validation",
+  "tests/test_api.py::test_event_filters_multiple_tickets_sales_and_cancellation_window",
+  "tests/test_api.py::test_organizer_event_cancellation_queues_refunds",
+  "tests/test_api.py::test_user_self_service_crud_and_token_deactivation",
+  "tests/test_concurrency.py::test_concurrent_last_seat_race"
+]
